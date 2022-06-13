@@ -19,13 +19,13 @@ Hi there 👋
 ---
 ### :woman_technologist: About Me :
 Trust Me, I'm an Engineer! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Project Engineer in Applied Artificial Intelligence and Analytics Group, CDAC.
+* :telescope: I’m working as a Project Engineer in Applied Artificial Intelligence and Analytics Group, CDAC.
 
-- :seedling: 1.Exploring Intelligence in Edge
+* :seedling: 1.Exploring Intelligence in Edge
 
-- :zap: In my free time, I learn new tools and read tech articles.
+* :zap: In my free time, I learn new tools and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/--susmita--banerjee14-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/susmita-banerjee14/)
+* :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/--susmita--banerjee14-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/susmita-banerjee14/)
 
 ---
 

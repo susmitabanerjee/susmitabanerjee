@@ -4,6 +4,7 @@
 </div>
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Google Scholar-blue?style=for-the-badge&logo=Google Scholar&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
@@ -27,7 +28,8 @@ Trust Me, I'm an Engineer! <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 * :zap: In my free time, I learn new tools and read tech articles.
 
-* :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/--susmita--banerjee14-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/susmita-banerjee14/)
+* :mailbox:How to reach me: ![Linkedin Badge](https://img.shields.io/badge/--susmita--banerjee14-blue?style=flat&logo=Linkedin&logoColor=white (https://www.linkedin.com/in/susmita-banerjee14/))
+
 
 ---
 
@@ -72,6 +74,8 @@ https://img.shields.io/badge/Linkedin-susmita--banerjee14-blue
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
+
+* 🔔:My work: ![Google Scholar Badge](https://img.shields.io/badge/--Susmita Banerjee-blue?style=flat&logo=Google Scholar&logoColor=white)](https://scholar.google.com/citations?user=_eeeZ98AAAAJ&hl=en&oi=ao))
 
 My first repository on GitHub
 I love ☕:

@@ -23,7 +23,7 @@ Hi there 👋
 Trust Me, I'm an Engineer! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 * :telescope: I’m working as a Project Engineer in Applied Artificial Intelligence and Analytics Group, CDAC.
 
-* :seedling: 1.Exploring Intelligence in Edge
+* :seedling: Exploring Intelligence in Edge
 
 * :zap: In my free time, I learn new tools and read tech articles.
 

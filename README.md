@@ -17,9 +17,14 @@ Hi there 👋
 
 
 ---
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
 ### :woman_technologist: About Me :
 Trust Me, I'm an Engineer! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-* :telescope: I’m working as a Project Engineer in Applied Artificial Intelligence and Analytics Group, CDAC.
+:telescope: I’m working as a Project Engineer in Applied Artificial Intelligence and Analytics Group, CDAC.
 
 * :seedling: 1.Exploring Intelligence in Edge
 
